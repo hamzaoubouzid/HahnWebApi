@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HahnWebApi", "HahnWebApi\HahnWebApi.csproj", "{039B3933-3238-4761-A2E2-859C39B32A57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hahn.ticket.Entity", "Hahn.ticket.dto\Hahn.ticket.Entity.csproj", "{A7F3435F-348E-4B3F-A0F5-8B3A26EC9E75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hahn.Services.Contract", "Hahn.Services.Contract\Hahn.Services.Contract.csproj", "{03CDD220-DF28-407C-99F4-F60725DD0B39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hahn.Services.EntityFramwork", "TaskManagement.Services.EntityFramwork\Hahn.Services.EntityFramwork.csproj", "{59F8D7D0-3AEA-46E6-B682-D0B6CC2081C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hahn.Shared", "Hahn.Shared\Hahn.Shared.csproj", "{D8AB7F40-553A-4C7B-BDBD-20F66399CA4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{039B3933-3238-4761-A2E2-859C39B32A57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{039B3933-3238-4761-A2E2-859C39B32A57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{039B3933-3238-4761-A2E2-859C39B32A57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{039B3933-3238-4761-A2E2-859C39B32A57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7F3435F-348E-4B3F-A0F5-8B3A26EC9E75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7F3435F-348E-4B3F-A0F5-8B3A26EC9E75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7F3435F-348E-4B3F-A0F5-8B3A26EC9E75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7F3435F-348E-4B3F-A0F5-8B3A26EC9E75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03CDD220-DF28-407C-99F4-F60725DD0B39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03CDD220-DF28-407C-99F4-F60725DD0B39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03CDD220-DF28-407C-99F4-F60725DD0B39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03CDD220-DF28-407C-99F4-F60725DD0B39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59F8D7D0-3AEA-46E6-B682-D0B6CC2081C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59F8D7D0-3AEA-46E6-B682-D0B6CC2081C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59F8D7D0-3AEA-46E6-B682-D0B6CC2081C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59F8D7D0-3AEA-46E6-B682-D0B6CC2081C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8AB7F40-553A-4C7B-BDBD-20F66399CA4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8AB7F40-553A-4C7B-BDBD-20F66399CA4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8AB7F40-553A-4C7B-BDBD-20F66399CA4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8AB7F40-553A-4C7B-BDBD-20F66399CA4D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3700D644-3302-43DB-A9F8-334E02554563}
+	EndGlobalSection
+EndGlobal

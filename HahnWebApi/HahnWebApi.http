@@ -1,0 +1,6 @@
+@HahnWebApi_HostAddress = http://localhost:5058
+
+GET {{HahnWebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
